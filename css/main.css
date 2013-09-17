@@ -47,55 +47,8 @@ h2, h3, h6 {
   margin-top: 50px;
 }
 
-.topic-left img {
-  padding-left: 130px;
-}
-
-.topic-left h6 {
-  letter-spacing: 1px;
-  padding-left: 130px;
-}
-
-.topic-left h2 {
-  padding-left: 130px;
-}
-
-.topic-left p {
-  padding-left: 130px;
-}
-
-.topic img {
-  padding: 0 65px;
-}
-
 .topic h6 {
   letter-spacing: 1px;
-  padding: 0 65px;
-}
-
-.topic h2 {
-  padding: 0 65px;
-}
-
-.topic p {
-  padding: 0 65px;
-}
-
-.topic-right img {
-  padding-right: 130px;
-}
-
-.topic-right h6 {
-  letter-spacing: 1px;
-  padding-right: 130px;
-}
-
-.topic-right h2 {
-  padding-right: 130px;
-}
-
-.topic-right p {
-  padding-right: 130px;
 }
 
 .social {
